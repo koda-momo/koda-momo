@@ -19,11 +19,14 @@
 <br>
 
 ## 🔗 Links
-<a href="https://github.com/koda-momo/" target="_blank" rel="noopener noreferrer"><img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/d8ce21e7-7b0f-432f-a384-c4b51d8f86b8" /></a>
-<a href="https://github.com/koda-momo-old" target="_blank" rel="noopener noreferrer"><img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/7c0f84e5-ce71-45ea-82e6-0bd3b3fd4cec" /></a>
-<a href="https://qiita.com/koda-momo" target="_blank" rel="noopener noreferrer"><img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/133278b2-81cd-4081-8eef-17230f9318e7" /></a>
-<a href="https://zenn.dev/koda_momo" target="_blank" rel="noopener noreferrer"><img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/bdc97a72-4d68-4e4a-b41e-8113d421e54d" /></a>
+<a href="https://github.com/koda-momo/"><img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/d8ce21e7-7b0f-432f-a384-c4b51d8f86b8" /></a>
+<a href="https://github.com/koda-momo-old"><img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/7c0f84e5-ce71-45ea-82e6-0bd3b3fd4cec" /></a>
+<a href="https://qiita.com/koda-momo"><img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/133278b2-81cd-4081-8eef-17230f9318e7" /></a>
+<a href="https://zenn.dev/koda_momo"><img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/bdc97a72-4d68-4e4a-b41e-8113d421e54d" /></a>
 <a href="https://connpass.com/user/koda_momo/"><img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/6527660c-6d61-4ec0-8a40-eaaa504b9076" /></a>
+<br>
+
+※connpassについてはリンクのアドレスをコピーし、直接URL打ち込みで遷移してください
 
 <br>
 
