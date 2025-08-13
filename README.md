@@ -4,7 +4,6 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 ### koda-momo
-<img width="150" height="150" alt="Image" src="https://avatars.githubusercontent.com/u/174192380?v=4" />
 フロントエンドエンジニア
 <br>
 
