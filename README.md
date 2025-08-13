@@ -26,7 +26,7 @@
 <a href="https://connpass.com/user/koda_momo/"><img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/6527660c-6d61-4ec0-8a40-eaaa504b9076" /></a>
 <br>
 
-※connpassについては403エラーとなるため、遷移後再リロードしてください
+※connpassについては403エラーとなるため、遷移後読み込み直してください
 
 <br>
 
